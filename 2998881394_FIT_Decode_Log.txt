@@ -1,0 +1,617 @@
+2018-09-13 10:39:27 - FIT Decode Example Application - Protocol
+2018-09-13 10:39:27 - Mesg - Name: file_id
+2018-09-13 10:39:27 - File ID - Manufacturer: 1 - Garmin
+2018-09-13 10:39:27 - File ID - Garmin Product: 2530 - Unknown
+2018-09-13 10:39:27 - File ID - Serial Number: 3933691233
+2018-09-13 10:39:27 - File ID - TimeCreated: Sat Sep 08 08:24:31 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: file_creator
+2018-09-13 10:39:27 - FileCreator - HardwareVersion: null
+2018-09-13 10:39:27 - FileCreator - SoftwareVersion: 1000
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: START
+2018-09-13 10:39:27 - Mesg - Name: device_info
+2018-09-13 10:39:27 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:27 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:27 - Device Info - Product Name: null
+2018-09-13 10:39:27 - Device Info - Product: 2530 - Unknown
+2018-09-13 10:39:27 - Device Info - Serial Number: 3933691233
+2018-09-13 10:39:27 - Device Info - ANT Device Number: null
+2018-09-13 10:39:27 - Device Info - Battery Voltage: null
+2018-09-13 10:39:27 - Mesg - Name: device_info
+2018-09-13 10:39:27 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:27 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:27 - Device Info - Product Name: null
+2018-09-13 10:39:27 - Device Info - Product: 2530 - Unknown
+2018-09-13 10:39:27 - Device Info - Serial Number: null
+2018-09-13 10:39:27 - Device Info - ANT Device Number: null
+2018-09-13 10:39:27 - Device Info - Battery Voltage: null
+2018-09-13 10:39:27 - Mesg - Name: device_info
+2018-09-13 10:39:27 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:27 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:27 - Device Info - Product Name: null
+2018-09-13 10:39:27 - Device Info - Product: 1621 - Unknown
+2018-09-13 10:39:27 - Device Info - Serial Number: null
+2018-09-13 10:39:27 - Device Info - ANT Device Number: null
+2018-09-13 10:39:27 - Device Info - Battery Voltage: null
+2018-09-13 10:39:27 - Mesg - Name: device_info
+2018-09-13 10:39:27 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:27 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:27 - Device Info - Product Name: null
+2018-09-13 10:39:27 - Device Info - Product: 1752 - HRM Run
+2018-09-13 10:39:27 - Device Info - Serial Number: 3878322
+2018-09-13 10:39:27 - Device Info - ANT Device Number: null
+2018-09-13 10:39:27 - Device Info - Battery Voltage: null
+2018-09-13 10:39:27 - Mesg - Name: device_info
+2018-09-13 10:39:27 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:27 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:27 - Device Info - Product Name: null
+2018-09-13 10:39:27 - Device Info - Product: 2161 - Unknown
+2018-09-13 10:39:27 - Device Info - Serial Number: 3875118460
+2018-09-13 10:39:27 - Device Info - ANT Device Number: null
+2018-09-13 10:39:27 - Device Info - Battery Voltage: 2.8164062
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: device_settings
+2018-09-13 10:39:27 - Mesg - Name: user_profile
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: sport
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: zones_target
+2018-09-13 10:39:27 - Mesg - Name: training_file
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:30 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: STOP_ALL
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:30 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: MARKER
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:30 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:34 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: START
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:34 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:35 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:36 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:37 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:38 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:39 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:40 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:41 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:42 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:43 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:44 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:45 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:46 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:46 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: MARKER
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:47 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:48 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:49 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: STOP_ALL
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:49 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: MARKER
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:49 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: unknown
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: event
+2018-09-13 10:39:27 - Event - Timestamp: Sat Sep 08 08:24:59 CEST 2018
+2018-09-13 10:39:27 - Event - Event Type: START
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:24:59 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:25:00 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:27 - Mesg - Name: record
+2018-09-13 10:39:27 - Record - Timestamp: Sat Sep 08 08:25:01 CEST 2018
+2018-09-13 10:39:27 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:02 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:03 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:04 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:05 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:06 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:07 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:08 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:09 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:10 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:11 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:12 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:13 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:14 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:15 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:16 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:17 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:18 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:19 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:20 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:21 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:22 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:23 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:24 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:25 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:26 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:27 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:28 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:29 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:30 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:31 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:32 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:33 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:34 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:35 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:36 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:25:36 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: MARKER
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:37 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:38 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:39 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:40 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:41 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:42 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:43 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:44 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:45 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:46 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:47 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:48 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:25:48 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: MARKER
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:49 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:50 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:51 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:52 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:53 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:54 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:55 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:56 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:57 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:58 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:25:59 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:00 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:01 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:02 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:03 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:04 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:05 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:06 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:07 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:08 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:09 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:10 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:11 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:12 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:13 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:14 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:15 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:16 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:17 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:18 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:19 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:20 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:21 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:22 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:23 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:24 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:25 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:26 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:27 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:26:28 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: STOP
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:28 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:29 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:30 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:31 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:32 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:33 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:34 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:35 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:36 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:37 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:38 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:39 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:40 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:41 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:42 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:43 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:44 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:45 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:46 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:47 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:48 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:26:49 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: STOP_ALL
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:26:49 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: MARKER
+2018-09-13 10:39:28 - Mesg - Name: record
+2018-09-13 10:39:28 - Record - Timestamp: Sat Sep 08 08:26:49 CEST 2018
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:26:56 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: MARKER
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: STOP_ALL
+2018-09-13 10:39:28 - Mesg - Name: device_info
+2018-09-13 10:39:28 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-13 10:39:28 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:28 - Device Info - Product Name: null
+2018-09-13 10:39:28 - Device Info - Product: 2530 - Unknown
+2018-09-13 10:39:28 - Device Info - Serial Number: 3933691233
+2018-09-13 10:39:28 - Device Info - ANT Device Number: null
+2018-09-13 10:39:28 - Device Info - Battery Voltage: null
+2018-09-13 10:39:28 - Mesg - Name: device_info
+2018-09-13 10:39:28 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-13 10:39:28 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:28 - Device Info - Product Name: null
+2018-09-13 10:39:28 - Device Info - Product: 2530 - Unknown
+2018-09-13 10:39:28 - Device Info - Serial Number: null
+2018-09-13 10:39:28 - Device Info - ANT Device Number: null
+2018-09-13 10:39:28 - Device Info - Battery Voltage: null
+2018-09-13 10:39:28 - Mesg - Name: device_info
+2018-09-13 10:39:28 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-13 10:39:28 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:28 - Device Info - Product Name: null
+2018-09-13 10:39:28 - Device Info - Product: 1621 - Unknown
+2018-09-13 10:39:28 - Device Info - Serial Number: null
+2018-09-13 10:39:28 - Device Info - ANT Device Number: null
+2018-09-13 10:39:28 - Device Info - Battery Voltage: null
+2018-09-13 10:39:28 - Mesg - Name: device_info
+2018-09-13 10:39:28 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-13 10:39:28 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:28 - Device Info - Product Name: null
+2018-09-13 10:39:28 - Device Info - Product: 1752 - HRM Run
+2018-09-13 10:39:28 - Device Info - Serial Number: 3878322
+2018-09-13 10:39:28 - Device Info - ANT Device Number: null
+2018-09-13 10:39:28 - Device Info - Battery Voltage: null
+2018-09-13 10:39:28 - Mesg - Name: device_info
+2018-09-13 10:39:28 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-13 10:39:28 - Device Info - Manufacturer: 1 - Garmin
+2018-09-13 10:39:28 - Device Info - Product Name: null
+2018-09-13 10:39:28 - Device Info - Product: 2161 - Unknown
+2018-09-13 10:39:28 - Device Info - Serial Number: 3875118460
+2018-09-13 10:39:28 - Device Info - ANT Device Number: null
+2018-09-13 10:39:28 - Device Info - Battery Voltage: 2.8164062
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: hrv
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:26:59 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: MARKER
+2018-09-13 10:39:28 - Mesg - Name: event
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:26:59 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: MARKER
+2018-09-13 10:39:28 - Mesg - Name: lap
+2018-09-13 10:39:28 - Event - Timestamp: Sat Sep 08 08:27:00 CEST 2018
+2018-09-13 10:39:28 - Event - Event Type: STOP
+2018-09-13 10:39:28 - Event - StartTime: Sat Sep 08 08:24:29 CEST 2018
+2018-09-13 10:39:28 - Event - TotalTimerTime: 126.401
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: session
+2018-09-13 10:39:28 - Session - Timestamp: Sat Sep 08 08:27:00 CEST 2018
+2018-09-13 10:39:28 - Session - Event Type: STOP
+2018-09-13 10:39:28 - Mesg - Name: unknown
+2018-09-13 10:39:28 - Mesg - Name: activity
+2018-09-13 10:39:28 - Activity - Timestamp: Sat Sep 08 08:27:00 CEST 2018
+2018-09-13 10:39:28 - Activity - Event: ACTIVITY
+2018-09-13 10:39:28 - Activity - EventGroup: null
+2018-09-13 10:39:28 - Activity - EventType: STOP
+2018-09-13 10:39:28 - Activity - LocalTimestamp: 905329620
+2018-09-13 10:39:28 - Activity - NumSessions: 1
+2018-09-13 10:39:28 - Activity - Timestamp: Sat Sep 08 08:27:00 CEST 2018
+2018-09-13 10:39:28 - Activity - TotalTimerTime: 126.401
+2018-09-13 10:39:28 - Activity - Type: MANUAL

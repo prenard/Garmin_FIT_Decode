@@ -1,0 +1,461 @@
+2018-09-11 08:26:55 - FIT Decode Example Application - Protocol
+2018-09-11 08:26:55 - Mesg - Name: file_id
+2018-09-11 08:26:55 - File ID - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - File ID - Garmin Product: 2530 - Unknown
+2018-09-11 08:26:55 - File ID - Serial Number: 3933691233
+2018-09-11 08:26:55 - Mesg - Name: file_creator
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: START
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 2530 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: 3933691233
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 2530 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: null
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 1621 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: null
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 1752 - HRM Run
+2018-09-11 08:26:55 - Device Info - Serial Number: 3878322
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:24:29 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 2161 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: 3875118460
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: 2.8164062
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: device_settings
+2018-09-11 08:26:55 - Mesg - Name: user_profile
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: sport
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: zones_target
+2018-09-11 08:26:55 - Mesg - Name: training_file
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: STOP_ALL
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: START
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: STOP_ALL
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: START
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: STOP
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: STOP_ALL
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: record
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: STOP_ALL
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 2530 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: 3933691233
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 2530 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: null
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 1621 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: null
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 1752 - HRM Run
+2018-09-11 08:26:55 - Device Info - Serial Number: 3878322
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: null
+2018-09-11 08:26:55 - Mesg - Name: device_info
+2018-09-11 08:26:55 - Device Info - Timestamp: Sat Sep 08 08:26:57 CEST 2018
+2018-09-11 08:26:55 - Device Info - Manufacturer: 1 - Garmin
+2018-09-11 08:26:55 - Device Info - Product Name: null
+2018-09-11 08:26:55 - Device Info - Product: 2161 - Unknown
+2018-09-11 08:26:55 - Device Info - Serial Number: 3875118460
+2018-09-11 08:26:55 - Device Info - ANT Device Number: null
+2018-09-11 08:26:55 - Device Info - Battery Voltage: 2.8164062
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: hrv
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: event
+2018-09-11 08:26:55 - Event - Event Type: MARKER
+2018-09-11 08:26:55 - Mesg - Name: lap
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: session
+2018-09-11 08:26:55 - Mesg - Name: unknown
+2018-09-11 08:26:55 - Mesg - Name: activity
+2018-09-11 08:26:55 - Activity - Event: ACTIVITY
+2018-09-11 08:26:55 - Activity - EventGroup: null
+2018-09-11 08:26:55 - Activity - EventType: STOP
+2018-09-11 08:26:55 - Activity - LocalTimestamp: 905329620
+2018-09-11 08:26:55 - Activity - NumSessions: 1
+2018-09-11 08:26:55 - Activity - Timestamp: Sat Sep 08 08:27:00 CEST 2018
+2018-09-11 08:26:55 - Activity - TotalTimerTime: 126.401
+2018-09-11 08:26:55 - Activity - Type: MANUAL

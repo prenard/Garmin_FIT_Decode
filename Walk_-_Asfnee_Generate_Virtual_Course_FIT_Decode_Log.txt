@@ -1,0 +1,1048 @@
+2018-09-13 16:30:04 - FIT Decode Example Application - Protocol
+2018-09-13 16:30:04 - Mesg - Name: file_id
+2018-09-13 16:30:04 - File ID - Type: ACTIVITY
+2018-09-13 16:30:04 - File ID - Manufacturer: 1 - Garmin
+2018-09-13 16:30:04 - File ID - Garmin Product: 2530 - Unknown
+2018-09-13 16:30:04 - File ID - Serial Number: 1
+2018-09-13 16:30:04 - File ID - TimeCreated: Sun Sep 09 09:00:00 CEST 2018
+2018-09-13 16:30:04 - Mesg - Name: course
+2018-09-13 16:30:04 - Course - Name: Walk_-_Asfnee
+2018-09-13 16:30:04 - Mesg - Name: event
+2018-09-13 16:30:04 - Event - Timestamp: Sun Sep 09 09:00:00 CEST 2018
+2018-09-13 16:30:04 - Event - Event Type: START
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:04 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 46.74
+2018-09-13 16:30:04 - Record - PositionLat: 608826765
+2018-09-13 16:30:04 - Record - PositionLong: 43770131
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:07 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 74.3
+2018-09-13 16:30:04 - Record - PositionLat: 608828913
+2018-09-13 16:30:04 - Record - PositionLong: 43773352
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 85.59
+2018-09-13 16:30:04 - Record - PositionLat: 608829629
+2018-09-13 16:30:04 - Record - PositionLong: 43774903
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 129.64
+2018-09-13 16:30:04 - Record - PositionLat: 608832850
+2018-09-13 16:30:04 - Record - PositionLong: 43769415
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:21 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 185.92
+2018-09-13 16:30:04 - Record - PositionLat: 608837026
+2018-09-13 16:30:04 - Record - PositionLong: 43762495
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:25 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 222.0
+2018-09-13 16:30:04 - Record - PositionLat: 608840485
+2018-09-13 16:30:04 - Record - PositionLong: 43759751
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:28 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 243.71
+2018-09-13 16:30:04 - Record - PositionLat: 608842752
+2018-09-13 16:30:04 - Record - PositionLong: 43758916
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:31 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 265.28
+2018-09-13 16:30:04 - Record - PositionLat: 608845019
+2018-09-13 16:30:04 - Record - PositionLong: 43759632
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:38 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 306.5
+2018-09-13 16:30:04 - Record - PositionLat: 608849433
+2018-09-13 16:30:04 - Record - PositionLong: 43759870
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:40 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 314.3
+2018-09-13 16:30:04 - Record - PositionLat: 608850268
+2018-09-13 16:30:04 - Record - PositionLong: 43759870
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:44 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 341.75
+2018-09-13 16:30:04 - Record - PositionLat: 608853132
+2018-09-13 16:30:04 - Record - PositionLong: 43760944
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:47 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 372.59
+2018-09-13 16:30:04 - Record - PositionLat: 608855995
+2018-09-13 16:30:04 - Record - PositionLong: 43763569
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:52 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 405.78
+2018-09-13 16:30:04 - Record - PositionLat: 608858620
+2018-09-13 16:30:04 - Record - PositionLong: 43767387
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:55 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 429.71
+2018-09-13 16:30:04 - Record - PositionLat: 608860887
+2018-09-13 16:30:04 - Record - PositionLong: 43769295
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:00:58 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 454.83
+2018-09-13 16:30:04 - Record - PositionLat: 608863511
+2018-09-13 16:30:04 - Record - PositionLong: 43770250
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:04 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 498.34
+2018-09-13 16:30:04 - Record - PositionLat: 608868164
+2018-09-13 16:30:04 - Record - PositionLong: 43769773
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 533.3
+2018-09-13 16:30:04 - Record - PositionLat: 608871863
+2018-09-13 16:30:04 - Record - PositionLong: 43768818
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:11 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 562.58
+2018-09-13 16:30:04 - Record - PositionLat: 608874845
+2018-09-13 16:30:04 - Record - PositionLong: 43767267
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:16 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 604.48
+2018-09-13 16:30:04 - Record - PositionLat: 608879021
+2018-09-13 16:30:04 - Record - PositionLong: 43764643
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:18 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 618.94
+2018-09-13 16:30:04 - Record - PositionLat: 608880333
+2018-09-13 16:30:04 - Record - PositionLong: 43763330
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:27 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 687.57
+2018-09-13 16:30:04 - Record - PositionLat: 608885702
+2018-09-13 16:30:04 - Record - PositionLong: 43755337
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:34 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 746.46
+2018-09-13 16:30:04 - Record - PositionLat: 608889520
+2018-09-13 16:30:04 - Record - PositionLong: 43747343
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:36 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 768.26
+2018-09-13 16:30:04 - Record - PositionLat: 608891309
+2018-09-13 16:30:04 - Record - PositionLong: 43744957
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:38 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 792.07
+2018-09-13 16:30:04 - Record - PositionLat: 608893695
+2018-09-13 16:30:04 - Record - PositionLong: 43743526
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:40 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 812.23
+2018-09-13 16:30:04 - Record - PositionLat: 608895843
+2018-09-13 16:30:04 - Record - PositionLong: 43743168
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:43 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 855.7
+2018-09-13 16:30:04 - Record - PositionLat: 608900496
+2018-09-13 16:30:04 - Record - PositionLong: 43743048
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:49 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 895.93
+2018-09-13 16:30:04 - Record - PositionLat: 608904791
+2018-09-13 16:30:04 - Record - PositionLong: 43742452
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:54 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 924.64
+2018-09-13 16:30:04 - Record - PositionLat: 608907654
+2018-09-13 16:30:04 - Record - PositionLong: 43740662
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:01:58 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 945.44
+2018-09-13 16:30:04 - Record - PositionLat: 608908966
+2018-09-13 16:30:04 - Record - PositionLong: 43737799
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:01 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 968.52
+2018-09-13 16:30:04 - Record - PositionLat: 608909563
+2018-09-13 16:30:04 - Record - PositionLong: 43733981
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:03 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 983.26
+2018-09-13 16:30:04 - Record - PositionLat: 608909682
+2018-09-13 16:30:04 - Record - PositionLong: 43731476
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1029.1
+2018-09-13 16:30:04 - Record - PositionLat: 608909086
+2018-09-13 16:30:04 - Record - PositionLong: 43723721
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:11 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1047.84
+2018-09-13 16:30:04 - Record - PositionLat: 608909563
+2018-09-13 16:30:04 - Record - PositionLong: 43720619
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1069.2
+2018-09-13 16:30:04 - Record - PositionLat: 608910875
+2018-09-13 16:30:04 - Record - PositionLong: 43717636
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:17 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1087.29
+2018-09-13 16:30:04 - Record - PositionLat: 608912188
+2018-09-13 16:30:04 - Record - PositionLong: 43715370
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:22 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1132.21
+2018-09-13 16:30:04 - Record - PositionLat: 608916482
+2018-09-13 16:30:04 - Record - PositionLong: 43711910
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:23 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1143.67
+2018-09-13 16:30:04 - Record - PositionLat: 608917318
+2018-09-13 16:30:04 - Record - PositionLong: 43710478
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:26 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1165.13
+2018-09-13 16:30:04 - Record - PositionLat: 608918749
+2018-09-13 16:30:04 - Record - PositionLong: 43707615
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:30 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1209.47
+2018-09-13 16:30:04 - Record - PositionLat: 608920658
+2018-09-13 16:30:04 - Record - PositionLong: 43700695
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:32 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1224.91
+2018-09-13 16:30:04 - Record - PositionLat: 608921613
+2018-09-13 16:30:04 - Record - PositionLong: 43698548
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:40 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1291.15
+2018-09-13 16:30:04 - Record - PositionLat: 608927936
+2018-09-13 16:30:04 - Record - PositionLong: 43693418
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:42 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1313.8
+2018-09-13 16:30:04 - Record - PositionLat: 608929845
+2018-09-13 16:30:04 - Record - PositionLong: 43691032
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:02:55 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1423.1
+2018-09-13 16:30:04 - Record - PositionLat: 608936764
+2018-09-13 16:30:04 - Record - PositionLong: 43675999
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:01 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1464.36
+2018-09-13 16:30:04 - Record - PositionLat: 608939866
+2018-09-13 16:30:04 - Record - PositionLong: 43670988
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1510.16
+2018-09-13 16:30:04 - Record - PositionLat: 608943565
+2018-09-13 16:30:04 - Record - PositionLong: 43665858
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:10 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1524.65
+2018-09-13 16:30:04 - Record - PositionLat: 608944996
+2018-09-13 16:30:04 - Record - PositionLong: 43664904
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1538.31
+2018-09-13 16:30:04 - Record - PositionLat: 608946428
+2018-09-13 16:30:04 - Record - PositionLong: 43665381
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:17 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1557.01
+2018-09-13 16:30:04 - Record - PositionLat: 608948218
+2018-09-13 16:30:04 - Record - PositionLong: 43666813
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:20 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1581.86
+2018-09-13 16:30:04 - Record - PositionLat: 608950365
+2018-09-13 16:30:04 - Record - PositionLong: 43669318
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:29 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1663.78
+2018-09-13 16:30:04 - Record - PositionLat: 608957165
+2018-09-13 16:30:04 - Record - PositionLong: 43678147
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:03:55 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1827.64
+2018-09-13 16:30:04 - Record - PositionLat: 608969692
+2018-09-13 16:30:04 - Record - PositionLong: 43697713
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:02 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1858.75
+2018-09-13 16:30:04 - Record - PositionLat: 608972078
+2018-09-13 16:30:04 - Record - PositionLong: 43701411
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:06 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1892.01
+2018-09-13 16:30:04 - Record - PositionLat: 608975061
+2018-09-13 16:30:04 - Record - PositionLong: 43704513
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1922.29
+2018-09-13 16:30:04 - Record - PositionLat: 608978044
+2018-09-13 16:30:04 - Record - PositionLong: 43706541
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:10 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1950.15
+2018-09-13 16:30:04 - Record - PositionLat: 608981026
+2018-09-13 16:30:04 - Record - PositionLong: 43706422
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:13 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 1981.73
+2018-09-13 16:30:04 - Record - PositionLat: 608984367
+2018-09-13 16:30:04 - Record - PositionLong: 43705587
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2000.78
+2018-09-13 16:30:04 - Record - PositionLat: 608986156
+2018-09-13 16:30:04 - Record - PositionLong: 43704036
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:16 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2020.94
+2018-09-13 16:30:04 - Record - PositionLat: 608987707
+2018-09-13 16:30:04 - Record - PositionLong: 43701650
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:17 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2039.37
+2018-09-13 16:30:04 - Record - PositionLat: 608988662
+2018-09-13 16:30:04 - Record - PositionLong: 43698906
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:19 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2061.11
+2018-09-13 16:30:04 - Record - PositionLat: 608989258
+2018-09-13 16:30:04 - Record - PositionLong: 43695327
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:20 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2074.88
+2018-09-13 16:30:04 - Record - PositionLat: 608990213
+2018-09-13 16:30:04 - Record - PositionLong: 43693537
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:23 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2094.62
+2018-09-13 16:30:04 - Record - PositionLat: 608992241
+2018-09-13 16:30:04 - Record - PositionLong: 43692582
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:25 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2111.43
+2018-09-13 16:30:04 - Record - PositionLat: 608993911
+2018-09-13 16:30:04 - Record - PositionLong: 43693656
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:27 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2122.56
+2018-09-13 16:30:04 - Record - PositionLat: 608995104
+2018-09-13 16:30:04 - Record - PositionLong: 43693656
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:30 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2136.21
+2018-09-13 16:30:04 - Record - PositionLat: 608996536
+2018-09-13 16:30:04 - Record - PositionLong: 43693179
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:33 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2160.01
+2018-09-13 16:30:04 - Record - PositionLat: 608998922
+2018-09-13 16:30:04 - Record - PositionLong: 43694611
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:36 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2180.16
+2018-09-13 16:30:04 - Record - PositionLat: 609000115
+2018-09-13 16:30:04 - Record - PositionLong: 43697474
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:45 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2235.43
+2018-09-13 16:30:04 - Record - PositionLat: 608998803
+2018-09-13 16:30:04 - Record - PositionLong: 43706660
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:47 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2249.85
+2018-09-13 16:30:04 - Record - PositionLat: 608998206
+2018-09-13 16:30:04 - Record - PositionLong: 43708927
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:49 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2260.32
+2018-09-13 16:30:04 - Record - PositionLat: 608997371
+2018-09-13 16:30:04 - Record - PositionLong: 43710120
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:51 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2277.45
+2018-09-13 16:30:04 - Record - PositionLat: 608997729
+2018-09-13 16:30:04 - Record - PositionLong: 43707257
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:56 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2331.62
+2018-09-13 16:30:04 - Record - PositionLat: 608999161
+2018-09-13 16:30:04 - Record - PositionLong: 43698309
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:04:58 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2344.22
+2018-09-13 16:30:04 - Record - PositionLat: 608999161
+2018-09-13 16:30:04 - Record - PositionLong: 43696162
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:03 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2376.97
+2018-09-13 16:30:04 - Record - PositionLat: 609000354
+2018-09-13 16:30:04 - Record - PositionLong: 43690912
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:04 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2390.0
+2018-09-13 16:30:04 - Record - PositionLat: 609001069
+2018-09-13 16:30:04 - Record - PositionLong: 43689003
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:15 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2468.36
+2018-09-13 16:30:04 - Record - PositionLat: 609004529
+2018-09-13 16:30:04 - Record - PositionLong: 43676834
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:23 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2532.16
+2018-09-13 16:30:04 - Record - PositionLat: 609006796
+2018-09-13 16:30:04 - Record - PositionLong: 43666574
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:27 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2562.55
+2018-09-13 16:30:04 - Record - PositionLat: 609007870
+2018-09-13 16:30:04 - Record - PositionLong: 43661683
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:29 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2578.8
+2018-09-13 16:30:04 - Record - PositionLat: 609008108
+2018-09-13 16:30:04 - Record - PositionLong: 43658939
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:41 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2675.61
+2018-09-13 16:30:04 - Record - PositionLat: 609011210
+2018-09-13 16:30:04 - Record - PositionLong: 43643190
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:05:43 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2684.82
+2018-09-13 16:30:04 - Record - PositionLat: 609012046
+2018-09-13 16:30:04 - Record - PositionLong: 43642355
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:02 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2816.4
+2018-09-13 16:30:04 - Record - PositionLat: 609016579
+2018-09-13 16:30:04 - Record - PositionLong: 43621119
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:03 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2834.63
+2018-09-13 16:30:04 - Record - PositionLat: 609016698
+2018-09-13 16:30:04 - Record - PositionLong: 43618017
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:07 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2867.69
+2018-09-13 16:30:04 - Record - PositionLat: 609017772
+2018-09-13 16:30:04 - Record - PositionLong: 43612648
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:09 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2879.93
+2018-09-13 16:30:04 - Record - PositionLat: 609018727
+2018-09-13 16:30:04 - Record - PositionLong: 43611217
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:19 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2937.61
+2018-09-13 16:30:04 - Record - PositionLat: 609022425
+2018-09-13 16:30:04 - Record - PositionLong: 43619091
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:22 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 2951.15
+2018-09-13 16:30:04 - Record - PositionLat: 609023618
+2018-09-13 16:30:04 - Record - PositionLong: 43620403
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:28 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3018.81
+2018-09-13 16:30:04 - Record - PositionLat: 609019442
+2018-09-13 16:30:04 - Record - PositionLong: 43610978
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:38 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3091.04
+2018-09-13 16:30:04 - Record - PositionLat: 609014551
+2018-09-13 16:30:04 - Record - PositionLong: 43601434
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:47 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3162.83
+2018-09-13 16:30:04 - Record - PositionLat: 609010137
+2018-09-13 16:30:04 - Record - PositionLong: 43591412
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:06:50 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3177.6
+2018-09-13 16:30:04 - Record - PositionLat: 609008705
+2018-09-13 16:30:04 - Record - PositionLong: 43590338
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:01 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3268.0
+2018-09-13 16:30:04 - Record - PositionLat: 609002859
+2018-09-13 16:30:04 - Record - PositionLong: 43578050
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:09 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3327.55
+2018-09-13 16:30:04 - Record - PositionLat: 608997490
+2018-09-13 16:30:04 - Record - PositionLong: 43583538
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:13 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3357.17
+2018-09-13 16:30:04 - Record - PositionLat: 608994388
+2018-09-13 16:30:04 - Record - PositionLong: 43584612
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3371.94
+2018-09-13 16:30:04 - Record - PositionLat: 608992957
+2018-09-13 16:30:04 - Record - PositionLong: 43583538
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:20 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3420.92
+2018-09-13 16:30:04 - Record - PositionLat: 608989616
+2018-09-13 16:30:04 - Record - PositionLong: 43577096
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:23 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3441.03
+2018-09-13 16:30:04 - Record - PositionLat: 608987827
+2018-09-13 16:30:04 - Record - PositionLong: 43575187
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:25 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3456.1
+2018-09-13 16:30:04 - Record - PositionLat: 608986276
+2018-09-13 16:30:04 - Record - PositionLong: 43574471
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:32 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3508.42
+2018-09-13 16:30:04 - Record - PositionLat: 608980668
+2018-09-13 16:30:04 - Record - PositionLong: 43574471
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:34 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3528.77
+2018-09-13 16:30:04 - Record - PositionLat: 608978521
+2018-09-13 16:30:04 - Record - PositionLong: 43573874
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:37 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3551.91
+2018-09-13 16:30:04 - Record - PositionLat: 608976135
+2018-09-13 16:30:04 - Record - PositionLong: 43572801
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:45 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3642.31
+2018-09-13 16:30:04 - Record - PositionLat: 608968977
+2018-09-13 16:30:04 - Record - PositionLong: 43583180
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:47 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3652.87
+2018-09-13 16:30:04 - Record - PositionLat: 608968857
+2018-09-13 16:30:04 - Record - PositionLong: 43584970
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:07:50 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3673.01
+2018-09-13 16:30:04 - Record - PositionLat: 608970408
+2018-09-13 16:30:04 - Record - PositionLong: 43587356
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:08:12 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3842.18
+2018-09-13 16:30:04 - Record - PositionLat: 608956688
+2018-09-13 16:30:04 - Record - PositionLong: 43606206
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:08:17 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3885.31
+2018-09-13 16:30:04 - Record - PositionLat: 608953109
+2018-09-13 16:30:04 - Record - PositionLong: 43610859
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:08:19 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3902.39
+2018-09-13 16:30:04 - Record - PositionLat: 608951797
+2018-09-13 16:30:04 - Record - PositionLong: 43608831
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:08:23 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3935.51
+2018-09-13 16:30:04 - Record - PositionLat: 608952632
+2018-09-13 16:30:04 - Record - PositionLong: 43603343
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:08:26 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 3957.94
+2018-09-13 16:30:04 - Record - PositionLat: 608952751
+2018-09-13 16:30:04 - Record - PositionLong: 43599525
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:08:42 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4060.43
+2018-09-13 16:30:04 - Record - PositionLat: 608951916
+2018-09-13 16:30:04 - Record - PositionLong: 43582106
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:08:47 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4112.66
+2018-09-13 16:30:04 - Record - PositionLat: 608951200
+2018-09-13 16:30:04 - Record - PositionLong: 43573278
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:15 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4292.42
+2018-09-13 16:30:04 - Record - PositionLat: 608947502
+2018-09-13 16:30:04 - Record - PositionLong: 43543213
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:30 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4421.96
+2018-09-13 16:30:04 - Record - PositionLat: 608943207
+2018-09-13 16:30:04 - Record - PositionLong: 43522215
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:34 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4453.35
+2018-09-13 16:30:04 - Record - PositionLat: 608944161
+2018-09-13 16:30:04 - Record - PositionLong: 43517085
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:39 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4496.06
+2018-09-13 16:30:04 - Record - PositionLat: 608941894
+2018-09-13 16:30:04 - Record - PositionLong: 43510762
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:43 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4530.74
+2018-09-13 16:30:04 - Record - PositionLat: 608939508
+2018-09-13 16:30:04 - Record - PositionLong: 43506229
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:48 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4563.39
+2018-09-13 16:30:04 - Record - PositionLat: 608937480
+2018-09-13 16:30:04 - Record - PositionLong: 43501695
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:54 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4617.06
+2018-09-13 16:30:04 - Record - PositionLat: 608933185
+2018-09-13 16:30:04 - Record - PositionLong: 43495611
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:09:57 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4640.01
+2018-09-13 16:30:04 - Record - PositionLat: 608931038
+2018-09-13 16:30:04 - Record - PositionLong: 43493702
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:10:03 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4689.93
+2018-09-13 16:30:04 - Record - PositionLat: 608926027
+2018-09-13 16:30:04 - Record - PositionLong: 43490719
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:10:20 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4826.06
+2018-09-13 16:30:04 - Record - PositionLat: 608911472
+2018-09-13 16:30:04 - Record - PositionLong: 43489168
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:10:31 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4925.61
+2018-09-13 16:30:04 - Record - PositionLat: 608900854
+2018-09-13 16:30:04 - Record - PositionLong: 43487498
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:10:34 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 4951.23
+2018-09-13 16:30:04 - Record - PositionLat: 608898110
+2018-09-13 16:30:04 - Record - PositionLong: 43487379
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:10:44 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5034.73
+2018-09-13 16:30:04 - Record - PositionLat: 608889162
+2018-09-13 16:30:04 - Record - PositionLong: 43487140
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:10:56 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5089.33
+2018-09-13 16:30:04 - Record - PositionLat: 608883316
+2018-09-13 16:30:04 - Record - PositionLong: 43487259
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:15 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5264.18
+2018-09-13 16:30:04 - Record - PositionLat: 608864585
+2018-09-13 16:30:04 - Record - PositionLong: 43487975
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:35 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5440.07
+2018-09-13 16:30:04 - Record - PositionLat: 608845735
+2018-09-13 16:30:04 - Record - PositionLong: 43488094
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:37 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5452.5
+2018-09-13 16:30:04 - Record - PositionLat: 608844422
+2018-09-13 16:30:04 - Record - PositionLong: 43487736
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:38 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5459.21
+2018-09-13 16:30:04 - Record - PositionLat: 608843707
+2018-09-13 16:30:04 - Record - PositionLong: 43487617
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:40 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5476.15
+2018-09-13 16:30:04 - Record - PositionLat: 608841917
+2018-09-13 16:30:04 - Record - PositionLong: 43487140
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:43 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5493.24
+2018-09-13 16:30:04 - Record - PositionLat: 608840247
+2018-09-13 16:30:04 - Record - PositionLong: 43485947
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:54 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5566.7
+2018-09-13 16:30:04 - Record - PositionLat: 608836906
+2018-09-13 16:30:04 - Record - PositionLong: 43497281
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:55 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5576.27
+2018-09-13 16:30:04 - Record - PositionLat: 608835952
+2018-09-13 16:30:04 - Record - PositionLong: 43496684
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:11:57 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5584.03
+2018-09-13 16:30:04 - Record - PositionLat: 608835594
+2018-09-13 16:30:04 - Record - PositionLong: 43497877
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:00 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5616.93
+2018-09-13 16:30:04 - Record - PositionLat: 608838934
+2018-09-13 16:30:04 - Record - PositionLong: 43499667
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:02 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5635.02
+2018-09-13 16:30:04 - Record - PositionLat: 608840247
+2018-09-13 16:30:04 - Record - PositionLong: 43497400
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:05 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5662.07
+2018-09-13 16:30:04 - Record - PositionLat: 608843110
+2018-09-13 16:30:04 - Record - PositionLong: 43496684
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:16 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5752.26
+2018-09-13 16:30:04 - Record - PositionLat: 608852774
+2018-09-13 16:30:04 - Record - PositionLong: 43496923
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:19 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5764.82
+2018-09-13 16:30:04 - Record - PositionLat: 608854086
+2018-09-13 16:30:04 - Record - PositionLong: 43497400
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:21 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5775.02
+2018-09-13 16:30:04 - Record - PositionLat: 608854802
+2018-09-13 16:30:04 - Record - PositionLong: 43498712
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:31 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5817.79
+2018-09-13 16:30:04 - Record - PositionLat: 608854921
+2018-09-13 16:30:04 - Record - PositionLong: 43505990
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:34 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5843.01
+2018-09-13 16:30:04 - Record - PositionLat: 608855041
+2018-09-13 16:30:04 - Record - PositionLong: 43510285
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:36 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5857.32
+2018-09-13 16:30:04 - Record - PositionLat: 608855995
+2018-09-13 16:30:04 - Record - PositionLong: 43512194
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:12:55 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 5978.74
+2018-09-13 16:30:04 - Record - PositionLat: 608868999
+2018-09-13 16:30:04 - Record - PositionLong: 43511597
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:13:03 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6033.29
+2018-09-13 16:30:04 - Record - PositionLat: 608874845
+2018-09-13 16:30:04 - Record - PositionLong: 43511717
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:13:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6142.49
+2018-09-13 16:30:04 - Record - PositionLat: 608886537
+2018-09-13 16:30:04 - Record - PositionLong: 43511001
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:13:36 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6290.58
+2018-09-13 16:30:04 - Record - PositionLat: 608902405
+2018-09-13 16:30:04 - Record - PositionLong: 43510404
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:13:43 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6324.01
+2018-09-13 16:30:04 - Record - PositionLat: 608905984
+2018-09-13 16:30:04 - Record - PositionLong: 43510524
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:13:52 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6372.23
+2018-09-13 16:30:04 - Record - PositionLat: 608911114
+2018-09-13 16:30:04 - Record - PositionLong: 43511478
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:13:59 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6423.7
+2018-09-13 16:30:04 - Record - PositionLat: 608916244
+2018-09-13 16:30:04 - Record - PositionLong: 43514699
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6491.24
+2018-09-13 16:30:04 - Record - PositionLat: 608922686
+2018-09-13 16:30:04 - Record - PositionLong: 43519949
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:12 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6526.11
+2018-09-13 16:30:04 - Record - PositionLat: 608925550
+2018-09-13 16:30:04 - Record - PositionLong: 43523766
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:17 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6566.16
+2018-09-13 16:30:04 - Record - PositionLat: 608928294
+2018-09-13 16:30:04 - Record - PositionLong: 43529016
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:19 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6588.1
+2018-09-13 16:30:04 - Record - PositionLat: 608929606
+2018-09-13 16:30:04 - Record - PositionLong: 43532118
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:25 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6637.17
+2018-09-13 16:30:04 - Record - PositionLat: 608931753
+2018-09-13 16:30:04 - Record - PositionLong: 43539753
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:28 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6662.88
+2018-09-13 16:30:04 - Record - PositionLat: 608932589
+2018-09-13 16:30:04 - Record - PositionLong: 43543929
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:36 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6730.7
+2018-09-13 16:30:04 - Record - PositionLat: 608934020
+2018-09-13 16:30:04 - Record - PositionLong: 43555263
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:37 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6739.87
+2018-09-13 16:30:04 - Record - PositionLat: 608934140
+2018-09-13 16:30:04 - Record - PositionLong: 43556814
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:43 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6790.46
+2018-09-13 16:30:04 - Record - PositionLat: 608934617
+2018-09-13 16:30:04 - Record - PositionLong: 43565404
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:46 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6810.19
+2018-09-13 16:30:04 - Record - PositionLat: 608934378
+2018-09-13 16:30:04 - Record - PositionLong: 43568744
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:47 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6819.69
+2018-09-13 16:30:04 - Record - PositionLat: 608933782
+2018-09-13 16:30:04 - Record - PositionLong: 43570057
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:14:57 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6896.24
+2018-09-13 16:30:04 - Record - PositionLat: 608926146
+2018-09-13 16:30:04 - Record - PositionLong: 43565284
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:00 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6927.65
+2018-09-13 16:30:04 - Record - PositionLat: 608922925
+2018-09-13 16:30:04 - Record - PositionLong: 43563733
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 6977.13
+2018-09-13 16:30:04 - Record - PositionLat: 608917676
+2018-09-13 16:30:04 - Record - PositionLong: 43562540
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:16 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7013.93
+2018-09-13 16:30:04 - Record - PositionLat: 608913738
+2018-09-13 16:30:04 - Record - PositionLong: 43562302
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:17 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7023.08
+2018-09-13 16:30:04 - Record - PositionLat: 608912784
+2018-09-13 16:30:04 - Record - PositionLong: 43561944
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:19 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7036.62
+2018-09-13 16:30:04 - Record - PositionLat: 608911710
+2018-09-13 16:30:04 - Record - PositionLong: 43560393
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:21 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7067.47
+2018-09-13 16:30:04 - Record - PositionLat: 608910040
+2018-09-13 16:30:04 - Record - PositionLong: 43555859
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:24 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7084.91
+2018-09-13 16:30:04 - Record - PositionLat: 608908608
+2018-09-13 16:30:04 - Record - PositionLong: 43553950
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:25 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7093.92
+2018-09-13 16:30:04 - Record - PositionLat: 608907654
+2018-09-13 16:30:04 - Record - PositionLong: 43554189
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:38 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7192.81
+2018-09-13 16:30:04 - Record - PositionLat: 608897990
+2018-09-13 16:30:04 - Record - PositionLong: 43561109
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:39 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7202.02
+2018-09-13 16:30:04 - Record - PositionLat: 608897155
+2018-09-13 16:30:04 - Record - PositionLong: 43561944
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:42 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7215.33
+2018-09-13 16:30:04 - Record - PositionLat: 608897155
+2018-09-13 16:30:04 - Record - PositionLong: 43564211
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:55 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7319.23
+2018-09-13 16:30:04 - Record - PositionLat: 608900854
+2018-09-13 16:30:04 - Record - PositionLong: 43580913
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:56 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7334.8
+2018-09-13 16:30:04 - Record - PositionLat: 608901092
+2018-09-13 16:30:04 - Record - PositionLong: 43583538
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:15:58 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7350.82
+2018-09-13 16:30:04 - Record - PositionLat: 608900138
+2018-09-13 16:30:04 - Record - PositionLong: 43585805
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:16:00 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7361.97
+2018-09-13 16:30:04 - Record - PositionLat: 608899064
+2018-09-13 16:30:04 - Record - PositionLong: 43586640
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:16:02 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7381.71
+2018-09-13 16:30:04 - Record - PositionLat: 608897036
+2018-09-13 16:30:04 - Record - PositionLong: 43587594
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:16:04 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7396.78
+2018-09-13 16:30:04 - Record - PositionLat: 608895485
+2018-09-13 16:30:04 - Record - PositionLong: 43588310
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:16:59 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7778.63
+2018-09-13 16:30:04 - Record - PositionLat: 608903478
+2018-09-13 16:30:04 - Record - PositionLong: 43652138
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:04 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7817.03
+2018-09-13 16:30:04 - Record - PositionLat: 608904791
+2018-09-13 16:30:04 - Record - PositionLong: 43658342
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:06 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7832.11
+2018-09-13 16:30:04 - Record - PositionLat: 608905149
+2018-09-13 16:30:04 - Record - PositionLong: 43660847
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:08 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7848.91
+2018-09-13 16:30:04 - Record - PositionLat: 608905149
+2018-09-13 16:30:04 - Record - PositionLong: 43663711
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7899.36
+2018-09-13 16:30:04 - Record - PositionLat: 608904910
+2018-09-13 16:30:04 - Record - PositionLong: 43672301
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:16 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7912.07
+2018-09-13 16:30:04 - Record - PositionLat: 608905387
+2018-09-13 16:30:04 - Record - PositionLong: 43674329
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:19 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7943.09
+2018-09-13 16:30:04 - Record - PositionLat: 608906819
+2018-09-13 16:30:04 - Record - PositionLong: 43679101
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:23 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7969.85
+2018-09-13 16:30:04 - Record - PositionLat: 608908131
+2018-09-13 16:30:04 - Record - PositionLong: 43683157
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:24 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 7987.29
+2018-09-13 16:30:04 - Record - PositionLat: 608906700
+2018-09-13 16:30:04 - Record - PositionLong: 43685066
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:38 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8084.09
+2018-09-13 16:30:04 - Record - PositionLat: 608897752
+2018-09-13 16:30:04 - Record - PositionLong: 43693418
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:50 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8158.18
+2018-09-13 16:30:04 - Record - PositionLat: 608901092
+2018-09-13 16:30:04 - Record - PositionLong: 43704871
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:52 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8180.35
+2018-09-13 16:30:04 - Record - PositionLat: 608902047
+2018-09-13 16:30:04 - Record - PositionLong: 43708331
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:56 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8207.36
+2018-09-13 16:30:04 - Record - PositionLat: 608900138
+2018-09-13 16:30:04 - Record - PositionLong: 43711791
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:17:58 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8226.15
+2018-09-13 16:30:04 - Record - PositionLat: 608898467
+2018-09-13 16:30:04 - Record - PositionLong: 43713580
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:18:14 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8333.62
+2018-09-13 16:30:04 - Record - PositionLat: 608890593
+2018-09-13 16:30:04 - Record - PositionLong: 43726942
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:18:17 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8350.61
+2018-09-13 16:30:04 - Record - PositionLat: 608889162
+2018-09-13 16:30:04 - Record - PositionLong: 43728732
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:18:22 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8385.7
+2018-09-13 16:30:04 - Record - PositionLat: 608885821
+2018-09-13 16:30:04 - Record - PositionLong: 43731476
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:18:25 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8403.57
+2018-09-13 16:30:04 - Record - PositionLat: 608883912
+2018-09-13 16:30:04 - Record - PositionLong: 43731714
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:18:40 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8509.8
+2018-09-13 16:30:04 - Record - PositionLat: 608872817
+2018-09-13 16:30:04 - Record - PositionLong: 43735771
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:18:48 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8573.64
+2018-09-13 16:30:04 - Record - PositionLat: 608866017
+2018-09-13 16:30:04 - Record - PositionLong: 43736964
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:19:03 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8684.07
+2018-09-13 16:30:04 - Record - PositionLat: 608854205
+2018-09-13 16:30:04 - Record - PositionLong: 43738157
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:19:22 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8827.54
+2018-09-13 16:30:04 - Record - PositionLat: 608838934
+2018-09-13 16:30:04 - Record - PositionLong: 43735294
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:19:25 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8855.46
+2018-09-13 16:30:04 - Record - PositionLat: 608835952
+2018-09-13 16:30:04 - Record - PositionLong: 43735651
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:19:36 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8949.55
+2018-09-13 16:30:04 - Record - PositionLat: 608825930
+2018-09-13 16:30:04 - Record - PositionLong: 43737441
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:19:41 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 8974.86
+2018-09-13 16:30:04 - Record - PositionLat: 608825692
+2018-09-13 16:30:04 - Record - PositionLong: 43741736
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:19:56 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 9088.31
+2018-09-13 16:30:04 - Record - PositionLat: 608830106
+2018-09-13 16:30:04 - Record - PositionLong: 43759751
+2018-09-13 16:30:04 - Mesg - Name: record
+2018-09-13 16:30:04 - Record - Timestamp: Sun Sep 09 09:20:00 CEST 2018
+2018-09-13 16:30:04 - Record - Distance: 9120.39
+2018-09-13 16:30:04 - Record - PositionLat: 608826885
+2018-09-13 16:30:04 - Record - PositionLong: 43761660
+2018-09-13 16:30:04 - Mesg - Name: lap
+2018-09-13 16:30:04 - Lap - Timestamp: Sun Sep 09 09:20:00 CEST 2018
+2018-09-13 16:30:04 - Lap - Event Type: STOP
+2018-09-13 16:30:04 - Lap - StartTime: Sun Sep 09 09:00:00 CEST 2018
+2018-09-13 16:30:04 - Lap - TotalTimerTime: 1200.787
+2018-09-13 16:30:04 - Lap - AvgSpeed: null

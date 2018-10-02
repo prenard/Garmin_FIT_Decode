@@ -1,0 +1,447 @@
+2018-09-12 15:50:38 - FIT Decode Example Application - Protocol
+2018-09-12 15:50:38 - Mesg - Name: file_id
+2018-09-12 15:50:38 - File ID - Manufacturer: 1 - Garmin
+2018-09-12 15:50:38 - File ID - Garmin Product: 2530 - Unknown
+2018-09-12 15:50:38 - File ID - Serial Number: 1
+2018-09-12 15:50:38 - File ID - TimeCreated: Sun Sep 09 09:00:00 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: device_info
+2018-09-12 15:50:38 - Device Info - Timestamp: Sun Sep 09 09:00:00 CEST 2018
+2018-09-12 15:50:38 - Device Info - Manufacturer: 1 - Garmin
+2018-09-12 15:50:38 - Device Info - Product Name: null
+2018-09-12 15:50:38 - Device Info - Product: 2530 - Unknown
+2018-09-12 15:50:38 - Device Info - Serial Number: 1
+2018-09-12 15:50:38 - Device Info - ANT Device Number: null
+2018-09-12 15:50:38 - Device Info - Battery Voltage: null
+2018-09-12 15:50:38 - Mesg - Name: event
+2018-09-12 15:50:38 - Event - Timestamp: Sun Sep 09 09:00:00 CEST 2018
+2018-09-12 15:50:38 - Event - Event Type: START
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:04 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:07 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:21 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:25 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:28 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:31 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:38 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:40 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:44 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:47 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:52 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:55 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:00:58 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:04 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:11 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:16 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:18 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:27 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:34 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:36 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:38 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:40 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:43 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:49 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:54 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:01:58 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:01 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:03 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:11 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:17 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:22 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:23 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:26 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:30 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:32 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:40 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:42 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:02:55 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:01 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:10 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:17 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:20 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:29 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:03:55 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:02 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:06 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:10 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:13 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:16 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:17 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:19 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:20 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:23 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:25 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:27 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:30 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:33 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:36 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:45 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:47 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:49 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:51 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:56 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:04:58 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:03 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:04 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:15 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:23 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:27 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:29 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:41 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:05:43 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:02 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:03 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:07 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:09 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:19 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:22 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:28 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:38 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:47 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:06:50 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:01 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:09 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:13 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:20 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:23 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:25 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:32 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:34 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:37 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:45 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:47 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:07:50 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:08:12 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:08:17 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:08:19 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:08:23 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:08:26 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:08:42 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:08:47 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:15 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:30 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:34 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:39 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:43 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:48 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:54 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:09:57 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:10:03 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:10:20 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:10:31 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:10:34 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:10:44 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:10:56 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:15 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:35 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:37 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:38 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:40 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:43 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:54 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:55 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:11:57 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:00 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:02 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:05 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:16 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:19 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:21 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:31 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:34 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:36 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:12:55 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:13:03 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:13:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:13:36 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:13:43 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:13:52 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:13:59 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:12 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:17 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:19 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:25 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:28 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:36 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:37 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:43 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:46 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:47 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:14:57 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:00 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:16 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:17 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:19 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:21 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:24 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:25 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:38 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:39 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:42 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:55 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:56 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:15:58 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:16:00 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:16:02 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:16:04 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:16:59 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:04 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:06 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:08 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:16 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:19 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:23 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:24 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:38 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:50 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:52 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:56 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:17:58 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:18:14 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:18:17 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:18:22 CEST 2018
+2018-09-12 15:50:38 - Mesg - Name: record
+2018-09-12 15:50:38 - Record - Timestamp: Sun Sep 09 09:18:25 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:18:40 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:18:48 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:19:03 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:19:22 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:19:25 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:19:36 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:19:41 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:19:56 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: record
+2018-09-12 15:50:39 - Record - Timestamp: Sun Sep 09 09:20:00 CEST 2018
+2018-09-12 15:50:39 - Mesg - Name: lap
+2018-09-12 15:50:39 - Event - Timestamp: Sun Sep 09 09:20:00 CEST 2018
+2018-09-12 15:50:39 - Event - Event Type: STOP
+2018-09-12 15:50:39 - Event - StartTime: Sun Sep 09 09:00:00 CEST 2018
+2018-09-12 15:50:39 - Event - TotalTimerTime: 1200.787
+2018-09-12 15:50:39 - Mesg - Name: session
+2018-09-12 15:50:39 - Session - Timestamp: Sun Sep 09 09:20:00 CEST 2018
+2018-09-12 15:50:39 - Session - Event Type: STOP
+2018-09-12 15:50:39 - Mesg - Name: activity
+2018-09-12 15:50:39 - Activity - Timestamp: Sun Sep 09 09:20:00 CEST 2018
+2018-09-12 15:50:39 - Activity - Event: ACTIVITY
+2018-09-12 15:50:39 - Activity - EventGroup: null
+2018-09-12 15:50:39 - Activity - EventType: STOP
+2018-09-12 15:50:39 - Activity - LocalTimestamp: 905412000
+2018-09-12 15:50:39 - Activity - NumSessions: 1
+2018-09-12 15:50:39 - Activity - Timestamp: Sun Sep 09 09:20:00 CEST 2018
+2018-09-12 15:50:39 - Activity - TotalTimerTime: 1200.787
+2018-09-12 15:50:39 - Activity - Type: MANUAL
